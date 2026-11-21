@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Atakan Ulusoy
+// Licensed under the MIT License.
+
 // script.name=Realistic River Network
 // script.description=Hydrology based river network: tributaries merge and all drain into the big lake, width grows downstream
 // script.param.cellSize.type=integer
